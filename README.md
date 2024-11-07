@@ -2,3 +2,5 @@
 This is my first repository.
 <br>
 Author - Madan Khadka
+<br>
+Faculty - IT Engineer

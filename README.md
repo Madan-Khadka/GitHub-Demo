@@ -5,4 +5,4 @@ Author - Madan Khadka
 <br>
 Faculty - IT Engineer
 <br>
-Everest Engineering College Sanepa-2 Lalitpur
+Everest Engineering College
